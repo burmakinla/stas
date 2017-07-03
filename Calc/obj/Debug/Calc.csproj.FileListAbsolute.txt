@@ -19,3 +19,6 @@ C:\Users\Леонид\Desktop\zaebal\Calc\obj\Debug\Calc.Properties.Resources.re
 C:\Users\Леонид\Desktop\zaebal\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
 C:\Users\Леонид\Desktop\zaebal\Calc\bin\Debug\Calc.exe
 C:\Users\Леонид\Desktop\zaebal\Calc\bin\Debug\Calc.pdb
+C:\Users\Леонид\Desktop\stas\Calc\bin\Debug\Calc.exe.config
+C:\Users\Леонид\Desktop\stas\Calc\obj\Debug\Calc.exe
+C:\Users\Леонид\Desktop\stas\Calc\obj\Debug\Calc.pdb

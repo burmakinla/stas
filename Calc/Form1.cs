@@ -11,7 +11,7 @@ namespace Calc
             InitializeComponent();
         }
 
-        private void InputNumber(object sender, EventArgs e)
+        private void Input(object sender, EventArgs e)
         {
             textBox1.Text += (sender as Button).Text;
         }
