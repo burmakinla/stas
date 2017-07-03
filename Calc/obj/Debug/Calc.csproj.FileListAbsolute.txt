@@ -1,0 +1,21 @@
+C:\Users\Леонид\Documents\Visual Studio 2013\Projects\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\Леонид\Documents\Visual Studio 2013\Projects\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\Леонид\Documents\Visual Studio 2013\Projects\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\Леонид\Documents\Visual Studio 2013\Projects\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+C:\Users\Леонид\Documents\Visual Studio 2013\Projects\Calc\Calc\obj\Debug\Calc.Form1.resources
+C:\Users\Леонид\Documents\Visual Studio 2013\Projects\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\Users\Леонид\Documents\Visual Studio 2013\Projects\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+C:\Users\Леонид\Documents\Visual Studio 2013\Projects\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\Леонид\Documents\Visual Studio 2013\Projects\Calc\Calc\obj\Debug\Calc.pdb
+C:\Users\Леонид\Desktop\new\Calc\bin\Debug\Calc.exe.config
+C:\Users\Леонид\Desktop\new\Calc\obj\Debug\Calc.exe
+C:\Users\Леонид\Desktop\new\Calc\obj\Debug\Calc.pdb
+C:\Users\Леонид\Desktop\zaebal\Calc\bin\Debug\Calc.exe.config
+C:\Users\Леонид\Desktop\zaebal\Calc\obj\Debug\Calc.exe
+C:\Users\Леонид\Desktop\zaebal\Calc\obj\Debug\Calc.pdb
+C:\Users\Леонид\Desktop\zaebal\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+C:\Users\Леонид\Desktop\zaebal\Calc\obj\Debug\Calc.Form1.resources
+C:\Users\Леонид\Desktop\zaebal\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\Users\Леонид\Desktop\zaebal\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+C:\Users\Леонид\Desktop\zaebal\Calc\bin\Debug\Calc.exe
+C:\Users\Леонид\Desktop\zaebal\Calc\bin\Debug\Calc.pdb
