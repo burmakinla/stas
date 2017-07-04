@@ -22,3 +22,9 @@ C:\Users\Леонид\Desktop\zaebal\Calc\bin\Debug\Calc.pdb
 C:\Users\Леонид\Desktop\stas\Calc\bin\Debug\Calc.exe.config
 C:\Users\Леонид\Desktop\stas\Calc\obj\Debug\Calc.exe
 C:\Users\Леонид\Desktop\stas\Calc\obj\Debug\Calc.pdb
+C:\Users\Леонид\Desktop\stas\Calc\bin\Debug\Calc.exe
+C:\Users\Леонид\Desktop\stas\Calc\bin\Debug\Calc.pdb
+C:\Users\Леонид\Desktop\stas\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+C:\Users\Леонид\Desktop\stas\Calc\obj\Debug\Calc.Form1.resources
+C:\Users\Леонид\Desktop\stas\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\Users\Леонид\Desktop\stas\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
